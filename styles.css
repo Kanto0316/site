@@ -80,6 +80,13 @@ p {
   line-height: 1.65;
 }
 
+.modal-subtitle {
+  margin-top: 4px;
+  margin-bottom: 12px;
+  font-size: 14px;
+  color: #6b7280;
+}
+
 .btn {
   margin-top: 1.6rem;
   border: 0;
